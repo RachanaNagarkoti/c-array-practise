@@ -2,7 +2,7 @@
 int main(){
     int i;
     float arr[5],sum=0.0,avg;
-    printf("Enter marks 5 numbers:");
+    printf("Enter marks 5 numbers:"); //input array elements
     for(i=0;i<5;i++)
         scanf("%f",&arr[i]);
         for(i=0;i<5;i++){
